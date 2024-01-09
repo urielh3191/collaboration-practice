@@ -4,9 +4,9 @@
 #### 4
 #### 5 Bananas
 #### 6
-#### 7 apple 
+#### 7 apple
 #### 8
-#### 9
+#### 9 Github is really good
 #### 10
 #### 11
 #### 12
