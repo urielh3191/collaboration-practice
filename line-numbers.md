@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is really awesome
 #### 10
-#### 11 Dinner
+#### 11 Lunch and Dinner
 #### 12
 #### 13
 #### 14
